@@ -1,2 +1,2 @@
 # BussWebsite
-My verry own Website as a example for Beginner
+My verry own Website as a example for Beginners
